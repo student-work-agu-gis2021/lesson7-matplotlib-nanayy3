@@ -67,7 +67,7 @@ plt.scatter(x, y, s = 50, c = 'black', cmap = 'rainbow', edgecolor = 'red')
 # Add labels and title
 # YOUR CODE HERE 4
 plt.title("My random candy points")
-plt.xlabe("X-labels")
+plt.xlabel("X-labels")
 plt.ylabel("Y-labels")
 plt.show()
 
